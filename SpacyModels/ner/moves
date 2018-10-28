@@ -1,0 +1,32 @@
+Å´transitions⁄j[
+  {
+    "clas":0,
+    "move":1,
+    "label":"ML",
+    "name":"B-ML"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"ML",
+    "name":"I-ML"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"ML",
+    "name":"L-ML"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"ML",
+    "name":"U-ML"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
